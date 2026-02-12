@@ -2,5 +2,3 @@
 Repository for the course TM10011 machine learning
 
 Lees mij alsjeblieft!
-
-HIHIHIhaha

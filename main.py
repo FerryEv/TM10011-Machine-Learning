@@ -5,3 +5,5 @@ print('2.0 test')
 print('Dit is alleen de main hihihiha')
 
 print('PULL?')
+
+# geen print want ff 2.0 checken
